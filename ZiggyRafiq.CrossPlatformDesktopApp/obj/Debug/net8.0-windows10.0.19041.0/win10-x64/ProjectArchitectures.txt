@@ -1,0 +1,1 @@
+E:\GitHub\CrossPlatform-CSharp-NET8-MAUI-DesktopApps\Ziggy Rafiq Using MAUI Cross Platform Desktop App\ZiggyRafiq.CrossPlatformDesktopApp\ZiggyRafiq.CrossPlatformDesktopApp.csproj;x64
